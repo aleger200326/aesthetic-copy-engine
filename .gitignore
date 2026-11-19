@@ -1,0 +1,5 @@
+.env
+.env.*
+node_modules/
+feed-snapshot.json
+*feed-export*.json
